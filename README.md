@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [todo-project](https://github.com/caicke/todo-project)
 
-- 🌱 I’m currently learning **NestJs, .NET Microservices,**
+- 🌱 I’m currently learning **NestJs, .NET Microservices, and studying to reach a CLF-C01 Cloud Practitioner certification**
 
 - ⚽🏀 Passionate about football and basketball (Flamengo and Lakers), and sports in general.
 
